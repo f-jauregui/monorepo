@@ -1,0 +1,9 @@
+[submodule "app-3"]
+	path = app-3
+	url = git@github.com:f-jauregui/app-3.git
+[submodule "app-2"]
+	path = app-2
+	url = git@github.com:f-jauregui/app-2.git
+[submodule "app-1"]
+	path = app-1
+	url = git@github.com:f-jauregui/app-1.git
